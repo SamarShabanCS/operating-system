@@ -1,0 +1,8 @@
+#!/bin/bash
+i=1
+while [ $i -le 5 ] 
+do
+echo "Hello $i times"
+i=`expr $i + 1`
+done
+

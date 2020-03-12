@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Entre Number"
+read n
+case $n in
+1) echo "First Choice" ;;
+2) echo "Second Choce" ;;
+3) echo "Thrid Choice" ;;
+*) echo "Other Choice" ;;
+esac
+
