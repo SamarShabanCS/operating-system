@@ -1,4 +1,4 @@
-# operating-system
+# Operating-System
 ## OS-Lab
 ### Introduction
 Operating Systems Laboratory Materials. In this course we try to do some C and system programming in Ubuntu.
@@ -13,5 +13,6 @@ Operating Systems Laboratory Materials. In this course we try to do some C and s
 8. Deadlock
 9. Scheduling
 
-
+### references:
+- https://www.cse.iitb.ac.in/~mythili/os/ 
 ##### Eng/ Samar Sh Haytamy 
