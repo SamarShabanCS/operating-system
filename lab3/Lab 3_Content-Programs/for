@@ -1,0 +1,25 @@
+
+<<COMMENT
+
+#!/bin/bash
+for i in 1 2 3 4 5
+do
+echo "Hello $i Times"
+done
+COMMENT
+
+<<COMMENT
+#!/bin/bash
+list="1 2 3 4 7"
+for i in $list
+do
+echo "Hello $i Times"
+done
+COMMENT
+
+#!/bin/bash
+
+for((i=0;i<=5;i++)) 
+do
+echo "Hello $i Times"
+done
